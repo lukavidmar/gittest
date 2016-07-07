@@ -1,4 +1,4 @@
-OpenTele Server
+OpenTele Server    
 ===============
 [Grails](http://grails.org/)-based server which provides the back-end for the client and a clinical GUI.
 
